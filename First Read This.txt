@@ -1,0 +1,3 @@
+Download the Repo and rename the file extention.
+NoDVD.zipD to NoDVD.zip
+Then extract the ZIP folder and follow the instructions in readme.txt
